@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <string name="i_don_t_have_a_pan">I don\'t Have a PAN</string>
+    <string name="next">Next</string>
+    <string name="providing_pan_and_date_of_birth_helps_us_find_and_fetch_your_kyc">Providing PAN and Date of Birth helps us find and fetch your KYC from a central registry by the Government of India.</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="birthdate">BirthDate</string>
+    <string name="pan_number">PAN Number</string>
+    <string name="heading_pan_number">Pan number</string>
+    <string name="first_of_the_few_steps_to_set_you_up_with_a_bank_account">First of the few steps to set you up with a Bank Account</string>
+</resources>
