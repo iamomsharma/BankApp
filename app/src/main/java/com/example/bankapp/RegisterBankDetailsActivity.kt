@@ -6,7 +6,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.example.bankapp.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class RegisterBankDetailsActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private val viewModel by viewModels<RegisterBankDetailsViewModel>()
 
